@@ -1,7 +1,0 @@
-<html>
-<head>Practice Project</head>
-<body>
-<h1>Practice Project</h1>
-<p>This is my practice project for git purpose</p>
-</body>
-</html>
